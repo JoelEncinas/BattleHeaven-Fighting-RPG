@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/EntryPoint.unity
+    guid: 8aad77cf565520643bb40b2ce3ca5414
+  - enabled: 1
+    path: Assets/Scenes/Combat.unity
+    guid: 8182cfa91852cf94f84c8aa70b71ff62
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 2fa93332b8c2df84b92a8568f0c387f4
+  - enabled: 1
+    path: Assets/Scenes/ChooseFirstFighter.unity
+    guid: 33c5ec2074863bb4eb9d2c746cab3832
+  - enabled: 1
+    path: Assets/Scenes/Shop.unity
+    guid: 96d7702ae9310e94f9f71552413b03ec
+  - enabled: 1
+    path: Assets/Scenes/LevelUp.unity
+    guid: 490f0c959a09a1a4ca1630f41dfff047
+  - enabled: 1
+    path: Assets/Scenes/Inventory.unity
+    guid: a67a502a2a38fc44ca7ef9fb705f1228
+  - enabled: 1
+    path: Assets/Scenes/Cup.unity
+    guid: d419c356cfd231f45afa64ac28fd39f7
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 6311b955ac1b57b4c9e5315dfe6d4186
+  m_configObjects: {}

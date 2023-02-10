@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fighter
+  - Results
+  - FighterNamePopup
+  - Arena
+  - GoldRewardInResults
+  - GemsRewardInResults
+  - ChestRewardInResults
+  - FighterBot
+  - CombatUI
+  - CombatLoadingScreenSprites
+  - CombatLoadingScreenUI
+  - ResultsLevelIcons
+  - LoadingScreenBot
+  - CombatLoadingScreenSpinner
+  - CombatLoadingScreenBotData
+  - PlayerShadow
+  - BotShadow
+  - SkillsContainer
+  - HitVFX
+  - FloatingHp
+  - TutorialResults
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Results
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Shadow
+    uniqueID: 2868194173
+    locked: 0
+  - name: Fighter
+    uniqueID: 3308405281
+    locked: 0
+  - name: CombatLoadingScreen
+    uniqueID: 2011910689
+    locked: 0

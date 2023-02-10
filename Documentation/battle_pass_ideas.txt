@@ -1,0 +1,29 @@
+# Battle pass ideas
+
+## Common ideas
+
+- Progress divided into tiers
+- Rewards more appealing towards end of pass
+- Boost of XP if premium pass purchased
+- Pass is p2w (can be unlocked with real money)
+- Rewards: cards, packs/boxes, titles, premium currency, regular currency, seasonal skins, emotes, extra gifts (available to guildies)
+
+### Brawl Stars
+
+The Brawl Pass is a progression system implemented in the May 2020 update that allows players to earn rewards and progress throughout the Brawl Pass season. The Brawl Pass replaced the old progression system, in which 100 Tokens would grant a Brawl Box, and 10 Star Tokens would give you a Big Box. Tokens can be used to unlock tiers that reward you with Gems, Power Points, Coins, Pin Packs, or Boxes. It costs 169 Gems to buy the paid version of the Brawl Pass for the season and unlock exclusive rewards including the Chromatic Brawler of the season, 2 exclusive skins, and Pins, both for the Chromatic Brawler and the Chromatic Brawler’s exclusive skin. as well as additional standard rewards such as Boxes and Power Points. Unlocking the Chromatic Brawler from the Brawl Pass won’t affect Brawler drop rates, but unlocking the Brawler from a Brawl Box will. You can pay 249 Gems to buy the Brawl Pass Bundle, which purchases the Brawl Pass and automatically progresses you up a certain number of tiers depending on how many tiers have been unlocked already. If you want to advance to the next tier immediately, you can pay 30 Gems to unlock it. After reaching the final tier (tier 70), you will receive a bonus Big Box for every 500 Tokens received. Animated gradient names, known as Chromatic names, are available for players who brought the Brawl Pass only for that season. These animations are removed after that Brawl Pass season ends.
+
+### Valorant
+
+There are two tracks in the act pass; Free and Premium. The free track gives all players rewards with every chapter they complete, with the exception of the Epilogue chapter. The Premium track, which costs Valorant Points1,000 to get access to, boosts Battle Pass XP gains from playing matchmade games (Mission XP excluded) by 3% and gives these players additional rewards for every tier they complete. Players earn progress for tiers regardless of whether they have bought access to the Premium track or not. This means players can buy access to the Premium track weeks after the act begins to retroactively unlock the rewards they earned while on the free track[1]. The 3% XP boost however is not applied retroactively and only takes effect for every game played after the player unlocked the Premium track. Premium track players can also automatically earn progress to reach a specific tier they haven't unlocked by paying Valorant Points300 for every tier that needs to be completed to reach the player's target. This cannot be used for Epilogue tiers.
+
+### Clash royale
+
+Rewards & Perks for All Seasons
+- Automatic Chest Unlocking: Queue up another chest to start unlocking automatically when the first chest finishes unlocking.
+- Unlimited Special Challenge Retries: Enter & renter Special Challenges without paying a standard re-entry fee (usually with gems).
+- Golden Name Cosmetic: Player name gets a cosmetic change and an animation.
+- Battle Pass Rewards: Get Gold, Trade Tokens and Magic Items from Battle Pass Tiers, and no unlock timer needed for Crown Chests. At Arena 6 or above, each Season usually has 40,000 Gold, one Trade Token of each rarity, 1 Book of Books, 2 Chest Keys, 1 Magic Coin, 700 Common Wild Cards, 140 Rare Wild Cards, 70 Epic Wild Cards and 1 Legendary Wild Card.
+- Bonus Bank: After completing all Battle Pass tiers, for every further 10 Crowns gained, players get 250 additional Gold (up to 25,000). This means a player needs a total of 1,200 Crowns in one Season to have a full Bonus 'Bank'.
+- Clan Gift: When a player purchases Pass Royale, their clanmates each can claim a gift of 850 gold (or less, depending on King Level). Players have to be in a Clan before a clanmate purchases the Pass Royale to be eligible for the gift. Each player can claim up to 10 gifts each season.
+- Exclusive Emote and Tower Skin: Each Season has at least one Tower Skin and Emote exclusively obtainable for that Season.	
+- Lightning Strikes: Strikes down unwanted cards from chests to other cards of the same amount and rarity. Note that after the Strikes are unlocked, every single remaining Pass Royale Chest and Crown Chest will have that number of Strikes, instead of having a total of that number of Strikes. Each player has 7 Strikes unlocked in each Season, the first of which is automatically unlocked upon purchasing Pass Royale.

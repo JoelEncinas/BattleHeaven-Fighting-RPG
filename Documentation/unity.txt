@@ -1,0 +1,41 @@
+UNITY and C# info:
+
+- When to attach a script to a gameObject?
+    1. When the script interacts with a gameObject in the scene or when the script uses Unity methods
+    that interacts with a gameObject in the scene e.g "StartCoroutine".
+
+- When to make a class static?
+    1. When we are not going to make objects with that class. Only call methods, retrieve data...
+
+- When to make variables or methods of a class static? 
+    When they dont belong to an instance of an object and
+    we don't need to access the values through the inspector (e.g. Linking a variable to a gameobject in the scene).
+    Static variables can't be accesed through the inspector.
+
+- How to call a script from another script?
+    1. If the script is attached to a gameobject -> this.GetComponent<ClassWeWantToCall>();
+    2. If the script is not attached to a gameobject -> Make the class we want to call public. Now we can access its fields. 
+        If the class is static we can access them directly through the class, otherwise we need to call them on an instance.
+
+- Static vs abstract
+    An abstract class is intended to be used as a base of a class inheritance hierarchy. A static class cannot be the base of a class inheritance hierarchy. A static class is intended for singleton state or stateless functionality.
+
+- Link through the inspector vs GameObject.FindGameObjectWithTag() -> Prioritise GameObject.FindGameObjectWithTag as it will reduce bugs and errors and performance wise it is very similar.
+
+- Good practices of Awake and Start:
+    Awake: Here you setup the component you are on right now (the "this" object)
+    Start: Here you setup things that depend on other components.
+
+DATA STRUCTURES WE NEED TO ACCESS GLOBALLY IN THE GAME
+
+1. JSON
+    What do we save in the json file? -> Mutable data that is directly related to the player's progress (User class, Fighter class...). 
+    How often do we save in the json? Every time these objects change (User, Fighter...)
+    How often do we read from the json? Only once, on application start.
+
+2. Static variables 
+    Will store immutable/permanent data of our game. e.g. ranks, levels, quests, cards... (Folder for them)
+
+3. Data that belongs to MonoBehaviour Classes e.g. fighter 
+    For these we will create the gameobject on application start and use the "DontDestroyOnLoad" unity method to prevent it from being
+    destroyed when changing to another scene.
