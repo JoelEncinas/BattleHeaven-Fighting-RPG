@@ -1,3 +1,4 @@
+###### *Clone from originial [repo](https://github.com/MameCorp/BattleHeaven-Fighting-RPG)
 # BattleHeaven: Fighting RPG
 <p>
     <img src="https://img.shields.io/badge/Released-26%2F06%2F2022-blue">
