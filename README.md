@@ -10,7 +10,7 @@
 Now available for free on the playstore! <span><a href="https://play.google.com/store/apps/details?id=com.MamecorpGames.BattleHeavenFightingRPG" target="_blank">Download from Playstore</a></span>
 
 <p>
-    <img src="https://raw.githubusercontent.com/AdrianDanlos/NFT-Game-Mamecorp/master/Assets/Images/combat.gif" alt="Video"/>
+    <img src="https://github.com/JoelEncinas/BattleHeaven-Fighting-RPG/blob/main/Assets/Images/combat.gif" alt="Video"/>
 </p>
 
 ## A Fighting Game for everyone :fire:
