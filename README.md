@@ -1,10 +1,11 @@
-###### *Clone from originial [repo](https://github.com/MameCorp/BattleHeaven-Fighting-RPG)
+###### *Clone from originial  [repo](https://github.com/MameCorp/BattleHeaven-Fighting-RPG)
 # BattleHeaven: Fighting RPG
 <p>
     <img src="https://img.shields.io/badge/Released-26%2F06%2F2022-blue">
     <img src="https://img.shields.io/badge/version-1.0-brightgreen">
     <img src="https://img.shields.io/badge/-Unity-lightgrey">
     <img src="https://img.shields.io/badge/-C%23-blue">
+    <img src="https://img.shields.io/badge/google%20play-414141?style=for-the-badge&logo=googleplay&logoColor=white"/>
 </p>
 
 Now available for free on the playstore! <span><a href="https://play.google.com/store/apps/details?id=com.MamecorpGames.BattleHeavenFightingRPG" target="_blank">Download from Playstore</a></span>
